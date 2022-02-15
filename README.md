@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spayne2
+- 👋 Hi, I’m Simon Payne - Lecturer in Computer Science @ University of South Wales
 - 👀 I’m interested in teaching programming. This repository is full of code that i use for teaching C++ programming and Mobile and web development at USW. You can reach me at simon.payne@southwales.ac.uk
 
 
